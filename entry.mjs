@@ -1,1 +1,1 @@
-export * from "@aws-sdk/{repoName}";
+export * from "@aws-sdk/client-resource-groups-tagging-api";
